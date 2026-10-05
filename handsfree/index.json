@@ -1,0 +1,52 @@
+[
+  {
+    "name": "LectorXD",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectorxd",
+    "apk": "tachiyomi-es.lectorxd-v1.6.3.apk",
+    "lang": "es",
+    "code": 106003,
+    "version": "1.6.3",
+    "nsfw": 1,
+    "sources": [{"name":"LectorXD","lang":"es","id":4078570629457850125,"baseUrl":"https://lectorxd.com"}]
+  },
+  {
+    "name": "LeerManhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.leermanhwas",
+    "apk": "tachiyomi-es.leermanhwas-v1.6.900001.apk",
+    "lang": "es",
+    "code": 900001,
+    "version": "1.6.900001",
+    "nsfw": 1,
+    "sources": [{"name":"LeerManhwas","lang":"es","id":8701445043633550960,"baseUrl":"https://leermanhwas.com"}]
+  },
+  {
+    "name": "lHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lhentai",
+    "apk": "tachiyomi-es.lhentai-v1.6.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "sources": [{"name":"lHentai","lang":"es","id":1159928463285393061,"baseUrl":"https://lhentai.com"}]
+  },
+  {
+    "name": "Mangas No Sekai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
+    "apk": "tachiyomi-es.mangasnosekai-v1.6.75.apk",
+    "lang": "es",
+    "code": 106075,
+    "version": "1.6.75",
+    "nsfw": 0,
+    "sources": [{"name":"Mangas No Sekai","lang":"es","id":829053423099062956,"baseUrl":"https://mangasnosekai.com"}]
+  },
+  {
+    "name": "Olympus Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.900021.apk",
+    "lang": "es",
+    "code": 900021,
+    "version": "1.4.900021",
+    "nsfw": 0,
+    "sources": [{"name":"Olympus Scanlation","lang":"es","id":1596411039134168890,"baseUrl":"https://olympusxyz.com"}]
+  }
+]
